@@ -2,13 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264010%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 251 Contributions in the Year 2021
+> 🏆 254 Contributions in the Year 2021
  > 
 > 📦 10.8 kB Used in Github's Storage 
  > 
@@ -47,14 +47,14 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Java                     18 hrs 4 mins       ██████████████████████░░░   89.13% 
-XML                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
-Groovy                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Java                     21 hrs 9 mins       ███████████████████████░░   92.51% 
+XML                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+Groovy                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-IntelliJ                 20 hrs 17 mins      █████████████████████████   100.0%
+IntelliJ                 22 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -71,5 +71,5 @@ Java                     7 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2021
+ Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
