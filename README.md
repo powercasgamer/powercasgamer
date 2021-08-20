@@ -10,7 +10,7 @@
 
 > 🏆 170 Contributions in the Year 2021
  > 
-> 📦 10.9 kB Used in Github's Storage 
+> 📦 11.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,5 +71,5 @@ Java                     7 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2021
+ Last Updated on 20/08/2021
 <!--END_SECTION:waka-->
