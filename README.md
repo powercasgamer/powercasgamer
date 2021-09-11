@@ -47,11 +47,10 @@ Sunday       61 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Java                     1 hr 48 mins        █████████████████████░░░░   86.03% 
-Groovy                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -68,5 +67,5 @@ Java                     8 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2021
+ Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
