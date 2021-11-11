@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 340 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 11.2 kB Used in GitHub's Storage 
  > 
@@ -67,5 +67,5 @@ Java                     8 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
