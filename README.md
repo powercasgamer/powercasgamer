@@ -2,21 +2,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 313 Contributions in the Year 2022
+> 🏆 316 Contributions in the Year 2022
  > 
 > 📦 1.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -24,20 +22,20 @@
 
 ```text
 🌞 Morning    275 commits    █████████░░░░░░░░░░░░░░░░   37.62% 
-🌆 Daytime    261 commits    █████████░░░░░░░░░░░░░░░░   35.7% 
+🌆 Daytime    262 commits    █████████░░░░░░░░░░░░░░░░   35.84% 
 🌃 Evening    132 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-🌙 Night      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
+🌙 Night      62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-Wednesday    209 commits    ███████░░░░░░░░░░░░░░░░░░   28.59% 
+Tuesday      121 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
+Wednesday    208 commits    ███████░░░░░░░░░░░░░░░░░░   28.45% 
 Thursday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
 Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Saturday     74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Saturday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
 Sunday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.35%
 
 ```
@@ -74,5 +72,5 @@ Shell                    2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2022 12:36:31 UTC
+ Last Updated on 16/02/2022 06:31:11 UTC
 <!--END_SECTION:waka-->
