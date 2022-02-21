@@ -2,13 +2,15 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 339 Contributions in the Year 2022
+> 🏆 340 Contributions in the Year 2022
  > 
 > 📦 1.2 kB Used in GitHub's Storage 
  > 
@@ -47,14 +49,14 @@ Sunday       80 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     11 hrs 33 mins      ██████████████░░░░░░░░░░░   56.42% 
-Groovy                   4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.19% 
-Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-TOML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.24%
+Java                     11 hrs 10 mins      █████████████░░░░░░░░░░░░   53.46% 
+Groovy                   4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75% 
+Other                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
+TOML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
 
 🔥 Editors: 
-VS Code                  20 hrs 29 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -72,5 +74,5 @@ Shell                    2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/02/2022 06:29:54 UTC
+ Last Updated on 21/02/2022 12:38:33 UTC
 <!--END_SECTION:waka-->
