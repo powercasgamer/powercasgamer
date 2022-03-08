@@ -2,15 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C126%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 439 Contributions in the Year 2022
+> 🏆 440 Contributions in the Year 2022
  > 
 > 📦 150.6 kB Used in GitHub's Storage 
  > 
@@ -32,9 +30,9 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+Monday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
 Tuesday      114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Wednesday    221 commits    ███████░░░░░░░░░░░░░░░░░░   28.85% 
+Wednesday    220 commits    ███████░░░░░░░░░░░░░░░░░░   28.72% 
 Thursday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
 Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
 Saturday     72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
@@ -74,5 +72,5 @@ Shell                    2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 18:30:32 UTC
+ Last Updated on 08/03/2022 06:32:02 UTC
 <!--END_SECTION:waka-->
