@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,10 +35,10 @@
 Monday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
 Tuesday      133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
 Wednesday    198 commits    ██████░░░░░░░░░░░░░░░░░░░   26.54% 
-Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
 Friday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
 Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-Sunday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26%
+Sunday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13%
 
 ```
 
@@ -71,5 +71,5 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 06:31:55 UTC
+ Last Updated on 16/06/2022 12:50:43 UTC
 <!--END_SECTION:waka-->
