@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C395%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 961 Contributions in the Year 2022
+> 🏆 962 Contributions in the Year 2022
  > 
 > 📦 151.1 kB Used in GitHub's Storage 
  > 
@@ -33,11 +33,11 @@
 
 ```text
 Monday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Tuesday      130 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
+Tuesday      129 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
 Wednesday    197 commits    ██████░░░░░░░░░░░░░░░░░░░   26.73% 
 Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
 Friday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
-Saturday     55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+Saturday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
 Sunday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85%
 
 ```
@@ -75,5 +75,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 02:29:05 UTC
+ Last Updated on 17/07/2022 06:30:25 UTC
 <!--END_SECTION:waka-->
