@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C483%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C483%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,6 +10,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 1,175 Contributions in the Year 2022
+ > 
 > 📦 151.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -22,8 +24,8 @@
 
 ```text
 🌞 Morning    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
-🌆 Daytime    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-🌃 Evening    271 commits    ███████████░░░░░░░░░░░░░░   46.32% 
+🌆 Daytime    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+🌃 Evening    270 commits    ███████████░░░░░░░░░░░░░░   46.15% 
 🌙 Night      166 commits    ███████░░░░░░░░░░░░░░░░░░   28.38%
 
 ```
@@ -73,5 +75,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/powercasgamer/powercasgamer/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 12:57:42 UTC
+ Last Updated on 07/09/2022 18:36:34 UTC
 <!--END_SECTION:waka-->
