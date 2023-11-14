@@ -24,3 +24,7 @@ jobs:
           SHOW_PROJECTS: "False"
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "True"
+          IGNORED_REPOS: "powercasgamer, .github"
+          SHOW_LOC_CHART: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          
