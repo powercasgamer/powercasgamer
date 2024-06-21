@@ -2,19 +2,19 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.3 kB Used in GitHub's Storage 
+> 📦 207.9 kB Used in GitHub's Storage 
  > 
-> 🏆 296 Contributions in the Year 2024
+> 🏆 367 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 74 Public Repositories 
+> 📜 76 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -31,5 +31,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 00:22:00 UTC
+ Last Updated on 21/06/2024 00:21:04 UTC
 <!--END_SECTION:waka-->
