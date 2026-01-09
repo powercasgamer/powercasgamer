@@ -2,15 +2,15 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.25%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 215.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,9 +21,9 @@
 **I Mostly Code in Java** 
 
 ```text
-Java                     49 repos            ██████████████░░░░░░░░░░░   56.98 % 
+Java                     48 repos            ██████████████░░░░░░░░░░░   55.81 % 
 Kotlin                   19 repos            ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Shell                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
@@ -31,5 +31,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:31:27 UTC
+ Last Updated on 09/01/2026 00:31:45 UTC
 <!--END_SECTION:waka-->
